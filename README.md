@@ -5,7 +5,7 @@ The server side companion program for Project Krypton.
 https://github.com/MarkYHZhang/ProjectKryptonClient
 
 ### Video Demonstration
-[![Project Pather Video Demonstration](https://img.youtube.com/vi/_EjB9Uj-_Ww/0.jpg)](https://www.youtube.com/embed/_EjB9Uj-_Ww)
+[![Project Krypton Video Demonstration](https://img.youtube.com/vi/_EjB9Uj-_Ww/0.jpg)](https://www.youtube.com/embed/_EjB9Uj-_Ww)
 
 ### Additional Info
 - Real-time communication using custom TCP protocol
