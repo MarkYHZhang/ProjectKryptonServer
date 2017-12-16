@@ -1,4 +1,4 @@
-# ProjectKryptonServer
+# Project Krypton Server
 The server side companion program for Project Krypton.
 
 #### Client Side:
